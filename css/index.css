@@ -173,9 +173,7 @@ header{
   font-family: fontawesome;
   margin-left: 0.5rem;
 }
-.gallery1{
-  overflow: hidden;
-}
+.gallery1{overflow: hidden;}
 
 /* 버튼 섹션 */
 .main_button{background-color: #fff;}
