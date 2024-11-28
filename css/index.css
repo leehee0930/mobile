@@ -7,7 +7,6 @@ body{
   max-width: 360px;
   width: 100%;
   color: #333;
-  overflow: hidden;
 }
 header{
   display: flex;
@@ -173,6 +172,9 @@ header{
   content: '\f054';
   font-family: fontawesome;
   margin-left: 0.5rem;
+}
+.gallery1{
+  overflow: hidden;
 }
 
 /* 버튼 섹션 */
