@@ -4,7 +4,7 @@
 
 body{
   font-family: 'Noto Sans KR', sans-serif;
-  max-width: 380px;
+  min-width: 360px;
   width: 100%;
   color: #333;
 }
@@ -182,7 +182,7 @@ header{
   justify-content: space-evenly;
   align-items: center;
   margin: auto;
-  width: 32rem;
+  min-width: 32rem;
   height: 5rem;
   border-radius: 4rem;
   background-color: #3A8DFD;
